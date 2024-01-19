@@ -1,4 +1,4 @@
-# Beej_Project
+# CapitalCraft Online
 Creating a Beej Project using HTML and CSS.
 
 ## Description
