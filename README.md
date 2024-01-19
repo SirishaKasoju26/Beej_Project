@@ -1,5 +1,12 @@
 # Beej_Project
+Creating a Beej Project using HTML and CSS.
 
+## Description
+The Beej project is an innovative platform which is developed using
+HTML and CSS. The project features a responsive navbar with dynamic
+functionalities, and informative sections such as About and Footer.
+
+## Demo
 ![Beej1](https://github.com/SirishaKasoju26/Beej_Project/assets/132665292/a9b838bd-bf7f-4324-a7ea-549a35daad7d)
 ![Beej2](https://github.com/SirishaKasoju26/Beej_Project/assets/132665292/e07f97ad-0223-44fb-aaa8-da8e3ea1f380)
 ![Beej3](https://github.com/SirishaKasoju26/Beej_Project/assets/132665292/0b1f5c29-6d18-4b64-8223-2951e4b42d71)
